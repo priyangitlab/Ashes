@@ -8,6 +8,7 @@ import com.amazon.qa.base.Testbase;
 
 public class LoginPage extends Testbase {
 	
+	//Raghul
 	@FindBy(name="login")
 	WebElement userName; 
 	
